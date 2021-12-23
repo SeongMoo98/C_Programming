@@ -1,0 +1,4 @@
+﻿  소스.c
+C:\Users\rudnf\source\repos\C과제\assignment3_이성무_201812145\assignmeny3_이성무_201812145\소스.c(13,11): warning C4101: 'binary' :참조되지 않은 지역 변수입니다.
+C:\Users\rudnf\source\repos\C과제\assignment3_이성무_201812145\assignmeny3_이성무_201812145\소스.c(14,6): warning C4101: 'arr' :참조되지 않은 지역 변수입니다.
+  assignmeny3_이성무_201812145.vcxproj -> C:\Users\rudnf\source\repos\C과제\assignment3_이성무_201812145\Debug\assignment3_이성무_201812145.exe

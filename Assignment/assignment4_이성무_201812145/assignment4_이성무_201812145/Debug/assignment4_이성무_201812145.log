@@ -1,0 +1,4 @@
+﻿  assignment4_이성무_201812145.c
+C:\Users\rudnf\source\repos\C과제\assignment4_이성무_201812145\assignment4_이성무_201812145\assignment4_이성무_201812145.c(38,55): warning C4244: '함수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rudnf\source\repos\C과제\assignment4_이성무_201812145\assignment4_이성무_201812145\assignment4_이성무_201812145.c(38,61): warning C4244: '함수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  assignment4_이성무_201812145.vcxproj -> C:\Users\rudnf\source\repos\C과제\assignment4_이성무_201812145\Debug\assignment4_이성무_201812145.exe

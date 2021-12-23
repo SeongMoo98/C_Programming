@@ -1,0 +1,4 @@
+﻿  assignment6_이성무_201812145.c
+C:\Users\rudnf\source\repos\assignment6_이성무_201812145\assignment6_이성무_201812145\assignment6_이성무_201812145.c(45,18): warning C4047: '=': 'int'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+C:\Users\rudnf\source\repos\assignment6_이성무_201812145\assignment6_이성무_201812145\assignment6_이성무_201812145.c(47,20): warning C4047: '=': 'int *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+  assignment6_이성무_201812145.vcxproj -> C:\Users\rudnf\source\repos\assignment6_이성무_201812145\Debug\assignment6_이성무_201812145.exe
