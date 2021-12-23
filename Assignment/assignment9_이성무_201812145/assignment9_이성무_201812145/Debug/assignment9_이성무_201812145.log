@@ -1,0 +1,4 @@
+﻿  assignment9_이성무_201812145.c
+C:\Users\rudnf\source\repos\assignment9_이성무_201812145\assignment9_이성무_201812145\assignment9_이성무_201812145.c(80,11): warning C4098: 'deleteNode': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\rudnf\source\repos\assignment9_이성무_201812145\assignment9_이성무_201812145\assignment9_이성무_201812145.c(61): warning C4716: 'addNode': 값을 반환해야 합니다.
+  assignment9_이성무_201812145.vcxproj -> C:\Users\rudnf\source\repos\assignment9_이성무_201812145\Debug\assignment9_이성무_201812145.exe
