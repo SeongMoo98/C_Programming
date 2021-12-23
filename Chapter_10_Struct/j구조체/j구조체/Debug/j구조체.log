@@ -1,0 +1,3 @@
+﻿  special_struct.c
+C:\Users\rudnf\source\repos\C언어\j구조체\j구조체\special_struct.c(82,15): warning C4101: 'd2' :참조되지 않은 지역 변수입니다.
+  j구조체.vcxproj -> C:\Users\rudnf\source\repos\C언어\j구조체\Debug\j구조체.exe
