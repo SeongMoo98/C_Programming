@@ -1,0 +1,3 @@
+﻿  preprocessor.c
+C:\Users\rudnf\source\repos\C언어\b전처리,표준입출력,버퍼\b전처리,표준입출력,버퍼\preprocessor.c(38,6): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+  b전처리,표준입출력,버퍼.vcxproj -> C:\Users\rudnf\source\repos\C언어\b전처리,표준입출력,버퍼\Debug\b전처리,표준입출력,버퍼.exe

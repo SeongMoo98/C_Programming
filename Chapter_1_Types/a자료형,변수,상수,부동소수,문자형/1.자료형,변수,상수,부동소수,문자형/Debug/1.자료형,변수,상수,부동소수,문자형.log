@@ -1,0 +1,3 @@
+﻿  integer.c
+C:\Users\rudnf\source\repos\C언어\a자료형,변수,상수,부동소수,문자형\1.자료형,변수,상수,부동소수,문자형\integer.c(8,1): warning C4305: '초기화 중': '__int64'에서 'long'(으)로 잘립니다.
+  1.자료형,변수,상수,부동소수,문자형.vcxproj -> C:\Users\rudnf\source\repos\C언어\a자료형,변수,상수,부동소수,문자형\Debug\1.자료형,변수,상수,부동소수,문자형.exe
